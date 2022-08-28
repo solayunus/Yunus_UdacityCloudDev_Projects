@@ -1,3 +1,1 @@
-http://projectudagram-dev.us-east-1.elasticbeanstalk.com/
-
-screenshot: 'successfulDeployment.png'
+http://yunusprojectudagram-dev.us-east-1.elasticbeanstalk.com
